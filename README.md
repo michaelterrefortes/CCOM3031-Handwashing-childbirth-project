@@ -14,4 +14,8 @@ DataCamp project link: https://app.datacamp.com/learn/projects/discovery-of-hand
 
 Project: Dr. Semmelweis and the Discovery of Handwashing
 
-In this project we practiced python and also finished the project.
+In this project we practiced python and also finished the project. I learn to create tables and graphs
+in python. I think this is very important for my growth in Data Science and to improve in class.
+This project can help me to understand Data Science better and decide which final project to do. 
+Also, this project was very interesting in order to understand the importance of handwashing before delivering
+a baby. 
