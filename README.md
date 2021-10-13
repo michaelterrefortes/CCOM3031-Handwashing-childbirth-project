@@ -18,4 +18,6 @@ In this project we practiced python and also finished the project. I learn to cr
 in python. I think this is very important for my growth in Data Science and to improve in class.
 This project can help me to understand Data Science better and decide which final project to do. 
 Also, this project was very interesting in order to understand the importance of handwashing before delivering
-a baby. 
+a baby. Not handwashing can have serious outcomes to women who are giving birth. 
+
+To be able to run the Colab correctly you need to upload the datasets folder. 
